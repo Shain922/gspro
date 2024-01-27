@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: white;
+}
+html {
+  text-transform: capitalize;
+}
+
+.btn {
+  width: 100%;
+  background-color: #acd6fe;
+  color: black;
+  margin: 3px 0;
+  text-transform: capitalize;
+}
+.btn:hover {
+  background-color: transparent;
+  color: black;
+}
+.nav-item a:hover {
+  visibility: visible;
+  width: 100%;
+}
+.btnHome {
+  width: 100px;
+}
+.logo {
+  width: 50px;
+}
+.logo img {
+  border-radius: 100px;
+}
+nav {
+  background-color: #84c2ff;
+}
+.navbar-toggler {
+  color: black;
+}
+
+.nav-link {
+  font-weight: bold;
+}
+.card {
+  transition: 0.4s;
+}
+.card:hover {
+  transform: scale(1.1);
+}

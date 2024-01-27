@@ -1,0 +1,15 @@
+* {
+ margin: 0;
+ padding: 0;
+ text-transform: capitalize;
+}
+
+.nav {
+ background-color: #84c2ff;
+ text-align: center;
+}
+
+.logo {
+ width: 50px;
+ border-radius: 100px;
+}
